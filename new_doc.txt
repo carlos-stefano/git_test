@@ -3,3 +3,5 @@ Este é um novo doc
 Esta é uma nova alteração
 
 Agora posso alterar localmente e enviar para o remoto novamente
+
+Adição de linha na nova branch
